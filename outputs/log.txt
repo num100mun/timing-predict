@@ -1,0 +1,10 @@
+Epoch 001 | train loss 0.7744 val loss 0.5619 val MAE(delay) 0.5618720102310181 val MAE(power) NA
+Epoch 002 | train loss 0.5847 val loss 0.5316 val MAE(delay) 0.531594866514206 val MAE(power) NA
+Epoch 003 | train loss 0.5011 val loss 0.5319 val MAE(delay) 0.5318953192234039 val MAE(power) NA
+Epoch 004 | train loss 0.3724 val loss 0.6485 val MAE(delay) 0.6484795379638671 val MAE(power) NA
+Epoch 005 | train loss 0.3105 val loss 0.5835 val MAE(delay) 0.5835222268104553 val MAE(power) NA
+Epoch 006 | train loss 0.2765 val loss 0.5805 val MAE(delay) 0.5805408072471618 val MAE(power) NA
+Epoch 007 | train loss 0.2253 val loss 0.5136 val MAE(delay) 0.5135795950889588 val MAE(power) NA
+Epoch 008 | train loss 0.2330 val loss 0.5140 val MAE(delay) 0.5140395152568817 val MAE(power) NA
+Epoch 009 | train loss 0.2021 val loss 0.5970 val MAE(delay) 0.5969814801216126 val MAE(power) NA
+Epoch 010 | train loss 0.2253 val loss 0.5363 val MAE(delay) 0.536271824836731 val MAE(power) NA
